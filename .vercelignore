@@ -1,0 +1,7 @@
+# Dev-only assets not needed in production deploy
+screenshots/
+tools/
+.vscode/
+
+# Editor/system noise
+.DS_Store

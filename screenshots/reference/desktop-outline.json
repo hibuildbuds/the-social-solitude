@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "header",
+    "id": "masthead",
+    "cls": null,
+    "top": 0,
+    "height": 0,
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(58, 79, 102)",
+    "textPreview": "FED "
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "cls": "elementor elementor-1639",
+    "top": 0,
+    "height": 900,
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(58, 79, 102)",
+    "textPreview": "@media (max-width: 767px) { body { background: white !important; } div#fed-side-footer { display: flex !important; } div#fed-side-footer p { color: white !important; "
+  },
+  {
+    "tag": "footer",
+    "id": "footer",
+    "cls": null,
+    "top": 900,
+    "height": 0,
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(58, 79, 102)",
+    "textPreview": ""
+  },
+  {
+    "tag": "footer",
+    "id": "colophon",
+    "cls": null,
+    "top": 900,
+    "height": 0,
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(58, 79, 102)",
+    "textPreview": ""
+  }
+]
